@@ -9,7 +9,7 @@ Email: **{{$contact->email}}**
 <br>
 Phone: **{{$contact->phone}}**
 <br>
-### They attached the following message: ###
+### The contact attached the following message: ###
 > *{{$contact->message}}*
 
 @endcomponent
