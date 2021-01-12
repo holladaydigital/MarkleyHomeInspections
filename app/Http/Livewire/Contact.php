@@ -33,9 +33,8 @@ class Contact extends Component
         $contact = new \App\Models\Contact($res);
         $contact->save();
 
-        Mail::to('cholladay0816@gmail.com')->queue(new NewContact($contact));
+        Mail::to('markleyc58@gmail.com')->queue(new NewContact($contact));
 
         $this->redirect(route('contact-success'));
-        //Mail::to('markleyc58@gmail.com')->queue(new NewContact($contact));
     }
 }
