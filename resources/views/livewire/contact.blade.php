@@ -68,34 +68,34 @@
                     <form method="POST" wire:submit.prevent="submit" class="grid grid-cols-1 gap-y-6">
                         <div>
                             <label for="name" class="sr-only">Full name</label>
-                            <input required wire:model.defer="name" type="text" name="name" id="name" autocomplete="name" class="block w-full shadow-sm py-3 px-4 placeholder-gray-500 focus:ring-indigo-500 focus:border-indigo-500 border-gray-300 rounded-md" placeholder="Full name">
+                            <input required wire:model.defer="name" type="text" name="name" id="name" autocomplete="name" class="block w-full shadow-sm py-3 px-4 placeholder-gray-500 focus:ring-orange-500 focus:border-orange-500 border-gray-300 rounded-md" placeholder="Full name">
                             @error('name')
                             <span class="text-red-500">{{$message}}</span>
                             @enderror
                         </div>
                         <div>
                             <label for="email" class="sr-only">Email</label>
-                            <input required wire:model.defer="email" id="email" name="email" type="email" autocomplete="email" class="block w-full shadow-sm py-3 px-4 placeholder-gray-500 focus:ring-indigo-500 focus:border-indigo-500 border-gray-300 rounded-md" placeholder="Email">
+                            <input required wire:model.defer="email" id="email" name="email" type="email" autocomplete="email" class="block w-full shadow-sm py-3 px-4 placeholder-gray-500 focus:ring-orange-500 focus:border-orange-500 border-gray-300 rounded-md" placeholder="Email">
                             @error('email')
                             <span class="text-red-500">{{$message}}</span>
                             @enderror
                         </div>
                         <div>
                             <label for="phone" class="sr-only">Phone</label>
-                            <input required min="10" max="12" wire:model.defer="phone" type="text" name="phone" id="phone" autocomplete="tel" class="block w-full shadow-sm py-3 px-4 placeholder-gray-500 focus:ring-indigo-500 focus:border-indigo-500 border-gray-300 rounded-md" placeholder="Phone">
+                            <input required min="10" max="12" wire:model.defer="phone" type="text" name="phone" id="phone" autocomplete="tel" class="block w-full shadow-sm py-3 px-4 placeholder-gray-500 focus:ring-orange-500 focus:border-orange-500 border-gray-300 rounded-md" placeholder="Phone">
                             @error('phone')
                             <span class="text-red-500">{{$message}}</span>
                             @enderror
                         </div>
                         <div>
                             <label for="message" class="sr-only">Message</label>
-                            <textarea required wire:model.defer="message" maxlength="2048" id="message" name="message" rows="4" class="block w-full shadow-sm py-3 px-4 placeholder-gray-500 focus:ring-indigo-500 focus:border-indigo-500 border-gray-300 rounded-md" placeholder="Message"></textarea>
+                            <textarea required wire:model.defer="message" maxlength="2048" id="message" name="message" rows="4" class="block w-full shadow-sm py-3 px-4 placeholder-gray-500 focus:ring-orange-500 focus:border-orange-500 border-gray-300 rounded-md" placeholder="Message"></textarea>
                             @error('message')
                             <span class="text-red-500">{{$message}}</span>
                             @enderror
                         </div>
                         <div>
-                            <button type="submit" class="inline-flex justify-center py-3 px-6 border border-transparent shadow-sm text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+                            <button type="submit" class="inline-flex justify-center py-3 px-6 border border-transparent shadow-sm text-base font-medium rounded-md text-white bg-orange-600 hover:bg-orange-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-orange-500">
                                 Submit
                             </button>
                         </div>
