@@ -47,22 +47,23 @@
                     <svg class="hidden lg:block absolute top-0 right-0 -mt-20 -mr-20" width="404" height="384" fill="none" viewBox="0 0 404 384" aria-hidden="true">
                         <defs>
                             <pattern id="de316486-4a29-4312-bdfc-fbce2132a2c1" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
-                                <rect x="0" y="0" width="4" height="4" class="text-gray-200" fill="currentColor" />
+                                <rect x="0" y="0" width="4" height="4" class="text-orange-200" fill="currentColor" />
                             </pattern>
                         </defs>
                         <rect width="404" height="384" fill="url(#de316486-4a29-4312-bdfc-fbce2132a2c1)" />
                     </svg>
+
                     <div class="relative text-base mx-auto max-w-prose lg:max-w-none">
                         <figure>
                             <div class="aspect-w-12 aspect-h-7 lg:aspect-none">
-                                <img class="rounded-lg shadow-lg object-cover object-center" src="https://images.unsplash.com/photo-1546913199-55e06682967e?ixlib=rb-1.2.1&auto=format&fit=crop&crop=focalpoint&fp-x=.735&fp-y=.55&w=1184&h=1376&q=80" alt="Whitney leaning against a railing on a downtown street" width="1184" height="1376">
+                                <img class="rounded-lg shadow-lg object-cover object-center" src="{{asset('welcome.jpg')}}" alt="" width="1184" height="1376">
                             </div>
                             <figcaption class="mt-3 flex text-sm text-gray-500">
                                 <!-- Heroicon name: camera -->
                                 <svg class="flex-none w-5 h-5 text-gray-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
                                     <path fill-rule="evenodd" d="M4 5a2 2 0 00-2 2v8a2 2 0 002 2h12a2 2 0 002-2V7a2 2 0 00-2-2h-1.586a1 1 0 01-.707-.293l-1.121-1.121A2 2 0 0011.172 3H8.828a2 2 0 00-1.414.586L6.293 4.707A1 1 0 015.586 5H4zm6 9a3 3 0 100-6 3 3 0 000 6z" clip-rule="evenodd" />
                                 </svg>
-                                <span class="ml-2">Photograph by Marcus O’Leary</span>
+                                <span class="ml-2"><a href="https://www.facebook.com/markleyc">Photograph by Keith Markley</a></span>
                             </figcaption>
                         </figure>
                     </div>
