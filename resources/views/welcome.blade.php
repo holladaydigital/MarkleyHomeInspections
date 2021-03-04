@@ -113,7 +113,7 @@
                                 Home Building & Maintenance
                             </dt>
                             <dd class="mt-2 text-base text-gray-500">
-                                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+                                We'll work with you to help build new and maintain existing properties
                             </dd>
                         </div>
                     </div>
@@ -131,7 +131,7 @@
                                 Construction Consulting
                             </dt>
                             <dd class="mt-2 text-base text-gray-500">
-                                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+                                We offer construction consultation for your developing projects to help you get started
                             </dd>
                         </div>
                     </div>
@@ -149,7 +149,8 @@
                                 Landscaping
                             </dt>
                             <dd class="mt-2 text-base text-gray-500">
-                                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+                                Our team is certified to operate industrial machinery and we
+                                can rent these tools to save you time and money on your next project
                             </dd>
                         </div>
                     </div>
@@ -167,7 +168,7 @@
                                 Waterproofing
                             </dt>
                             <dd class="mt-2 text-base text-gray-500">
-                                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+                                We'll help you protect your home from rain and flooding
                             </dd>
                         </div>
                     </div>
@@ -185,7 +186,7 @@
                                 Commercial Inspections
                             </dt>
                             <dd class="mt-2 text-base text-gray-500">
-                                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+                                We'll work with your team and schedule a commercial inspection
                             </dd>
                         </div>
                     </div>
@@ -203,7 +204,7 @@
                                 Residential Inspections
                             </dt>
                             <dd class="mt-2 text-base text-gray-500">
-                                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+                                We'll schedule an affordable residential inspection for your home
                             </dd>
                         </div>
                     </div>
