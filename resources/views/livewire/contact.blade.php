@@ -26,7 +26,7 @@
                         Get in touch
                     </h2>
                     <p class="mt-3 text-lg leading-6 text-gray-500">
-                        Nullam risus blandit ac aliquam justo ipsum. Quam mauris volutpat massa dictumst amet. Sapien tortor lacus arcu.
+                        If you need our services, send us a message and we'll get back to you as soon as we can.
                     </p>
                     <dl class="mt-8 text-base text-gray-500">
                         <div>
