@@ -21,7 +21,7 @@
         <meta property="og:description" content="Markley Home Inspections is a company run by Keith Markley,
         who has served the local Eureka area for over 47 years.">
         <meta property="og:image" content="{{ asset('welcome.jpg') }}">
-        <meta property="og:url" content="{{ url('') }}">
+        <meta property="og:url" content="{{ config('app.url') }}">
 
         <!-- Fonts -->
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap">
